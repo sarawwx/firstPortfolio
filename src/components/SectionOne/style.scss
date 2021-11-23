@@ -1,0 +1,74 @@
+#banner {
+    background-image: url(ocean.jpg);
+}
+
+h3{
+    color:black;
+    font-size: 2.5rem;
+}
+
+.section-me{   
+    gap: 1rem;
+    h2{
+        font-size: 1.55rem;
+        text-align: center;
+    }
+
+    .one-container{
+        justify-content: center;
+        .me-container{
+            align-items: center;
+            justify-content: center;
+
+            .contato-holder{
+                display: flex;
+                justify-content: center;
+                gap:1em;
+            }
+
+            img.me {
+            width:15.4rem;
+            object-fit: cover;
+            border-radius: 118px;     
+            }
+
+            img.link-icon{
+                width: 2.7rem;
+            }
+        }
+    }
+}
+
+p.lead{
+    color:rgb(48, 18, 117);
+    font-size: 1.30rem;
+}
+
+.arrow-img{
+    width:3.5rem;
+    transition: all .2s ease-in-out;
+}    
+.arrow-img:hover{
+    transform: scale(1.1); 
+    }
+
+@media only screen and (max-width: 521px){
+    .bannermain-holder{
+        padding: 0px 6.2rem;
+        @media only screen and (max-width: 457px){
+            padding: 0px 4rem;
+        }
+        @media only screen and (max-width: 377px){
+            padding: 0px 3rem;
+        }
+        @media only screen and (max-width: 340px){
+            padding: 0px 2rem;
+        }
+    }
+}
+
+@media only screen and (max-width: 1400px){
+    .foto-container{
+        gap: 25px;
+    }
+}
