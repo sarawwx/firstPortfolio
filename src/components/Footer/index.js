@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer class="text-center text-white">
             <div class="container ft-container mb-4">
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:wwwasaramilk6@gmail.com" role="button" data-mdb-ripple-color="dark">
+                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="mailto:wwwasaramilk@gmail.com" role="button" data-mdb-ripple-color="dark">
                     <img src="images/o-email.png"></img>
                 </a>
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://github.com/sarawwx" role="button" data-mdb-ripple-color="dark">
