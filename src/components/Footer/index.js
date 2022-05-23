@@ -10,9 +10,6 @@ const Footer = () => {
                 <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://github.com/sarawwx" role="button" data-mdb-ripple-color="dark">
                     <img src="images/github.png"></img>
                 </a>
-                <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="https://vsco.co/llssaax/gallery" role="button" data-mdb-ripple-color="dark">
-                    <img src="images/vsco.png"></img>
-                </a>
             </div>
             <div class="container ft-container-2 text-muted">
                 <p>wwwsaramilk@gmail.com</p>    
