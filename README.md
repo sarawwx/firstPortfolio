@@ -1,2 +1,2 @@
-# Link para o site no vercel :
+# link to website:
 https://portfolio-sarawwx.vercel.app/
