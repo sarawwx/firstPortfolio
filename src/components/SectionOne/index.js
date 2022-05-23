@@ -23,8 +23,8 @@ const SectionOne = () => {
                                     <p>hello, i'm 19 years old... i finished high school last year, and started immersing myself in this new world of programming recently. if you have any advice to offer me, please say  -thanks</p>
                                 </div>
                                 <div class="col-lg-2 contato-holder">
-                                    <a href="https://github.com/sarawwx"><img src="images/github.png" class="link-icon"></img></a>
-                                    <a href="https://www.instagram.com/llssaax/"><img src="images/instagram.png" class="link-icon"></img></a>
+                                    <a href="https://github.com/sarawwx" target="_blank"><img src="images/github.png" class="link-icon"></img></a>
+                                    <a href="https://www.linkedin.com/in/sarawwx/" target="_blank"><img src="images/linkedin.png" class="link-icon"></img></a>
                                 </div>
                             </div>
                         </div>
