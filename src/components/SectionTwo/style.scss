@@ -60,16 +60,16 @@ body {
 
         .btn-primary {
             width: 5rem;
-            background-color: rgb(48, 18, 117);
-            border-color: #54b5b7;
+            background-color: var(--violet);
+            border-color: var(--blue);
             box-shadow: none !important
         }
 
         .btn-secondary {
             width: 5rem;
-            background-color: rgb(3, 3, 3);
-            border-color: #54b5b7;
-            box-shadow: none !important
+            background-color: var(--black);
+            border-color: var(--blue);
+            box-shadow: none !important;
         }
         
         .btn {
