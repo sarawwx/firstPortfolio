@@ -6,7 +6,7 @@ const SectionOne = () => {
             <section class="py-5 text-center container-fluid" id="banner" >
                 <div class="row py-lg-5">
                     <div class="col-lg-6 col-md-8 mx-auto bannermain-holder">
-                        <h3 class="fw-light bmvindo-text">welcome to my portfolio!</h3>
+                        <h3 class="fw-light bmvindo-text">welcome to my portfolio</h3>
                         <p class="lead">i'm still learning</p>
                         <a href="#ref-1"><img src="images/arrow.png" class="arrow-img" alt="seta"></img></a>
                     </div>
@@ -23,7 +23,7 @@ const SectionOne = () => {
                                     <p>hello, i'm 20 years old... 
                                         when i finished my high school, i started my immersion in the world of programming, 
                                         i ended up liking it and now i'm on the learning journey. 
-                                        <br></br>if you have any advice to offer me, please tell me   -thanks
+                                        <br/> if you have any advice to offer, please tell me   <br/>- thanks
                                     </p>
                                 </div>
                                 <div class="col-lg-2 contato-holder">
